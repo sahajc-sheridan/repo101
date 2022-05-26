@@ -5,7 +5,7 @@ package studentdata;
  *
  * @author Sahaj Chawla
  */
-public class PartTimeStudent {
+public class PartTimeStudent extends Student {
     private int numOfCourses; 
 
     /**
